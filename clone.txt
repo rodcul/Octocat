@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+Git clone is used to copy (or clone) an existing repo from another location. Git is a distributed version control system (or DVCS) and cloning allows us to create copies of the repo to be worked on separately.
