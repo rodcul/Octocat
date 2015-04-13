@@ -1,1 +1,1 @@
-Explain what the upstream remote is usually used for, in your own words
+Upstream is used to add a remote repo that we will generally be pushing to
