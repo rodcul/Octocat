@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+In git, a branch is a copy of an existing set of files that we can then commit to that will allow us to keep track of a new version of those files. Depending on the workflow being used, we'll usually create a new branch for a new feature/bug/hotfix and then merge it back into the main one (usually called master) once it's been tested and deemed working correctly. This will allow us to work on multiple new features/bugs/hotfixes at once.
